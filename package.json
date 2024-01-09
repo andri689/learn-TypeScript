@@ -6,7 +6,7 @@
   "scripts": {
     "tsc": "rd /s /q build && tsc",
     "ts": "rd /s /q build && tsc -w",
-    "dev": "nodemon ./build/oop-ts/04inheritance.js"
+    "dev": "nodemon ./build/oop-ts/28type_vs_interface.ts.js"
   },
   "author": "",
   "license": "ISC",
